@@ -1,0 +1,24 @@
+/* Add your custom styles here if needed */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 20px;
+}
+
+#productTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#productTable th, #productTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#productTable th {
+    background-color: #f2f2f2;
+}
